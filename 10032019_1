@@ -1,0 +1,6 @@
+//This is my first C++ Program!!!
+#include <iostream>
+int main() {
+	std::cout << "Hellowdfsdf Elaine!\n";
+	return 0;
+}
