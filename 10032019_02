@@ -39,3 +39,26 @@ int main()
 	printText(20);
 	return 0;
 }
+--
+
+
+//This is my first C++ Program!!!
+
+#include <iostream>
+
+using namespace std;
+
+int addNumbers(int x , int y) {
+	int answer = x + y;
+	return answer;
+
+}
+
+int main() 
+{	
+	
+	cout << addNumbers(32,43);
+	return 0;
+}
+
+
