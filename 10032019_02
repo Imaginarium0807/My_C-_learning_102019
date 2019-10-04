@@ -18,3 +18,24 @@ void printSomthing() {
 	cout << " oooo i am the best" << endl;
 
 }
+
+--------
+
+
+//This is my first C++ Program!!!
+
+#include <iostream>
+
+using namespace std;
+
+void printText(int x ) {
+	cout << " my favoriate number is " << x << endl;
+
+}
+
+int main() 
+{	
+	
+	printText(20);
+	return 0;
+}
