@@ -1,8 +1,7 @@
-
 #include<iostream>
 using namespace std;
 
-clas ElaineClass{
+class ElaineClass{
 public:
 	void coolSaying() {
 		cout << "I am the best" << endl;
