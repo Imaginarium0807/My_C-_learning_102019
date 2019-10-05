@@ -1,1 +1,21 @@
 
+#include(iostream)
+using namespace std;
+
+clas ElaineClass{
+public:
+	void coolSaying() {
+		cout << "I am the best" << endl;
+	}
+
+
+};
+
+
+int main()
+{
+
+	ElaineClass Elaineobject;
+	Elaineobject.coolSaying();
+	return 0;
+}
